@@ -1,6 +1,6 @@
 # Debt Recovery and future lending Prediction Model
 > It a Big Data project where i have done Data Analysis and Python programming conclude it in timely manner.
-I have done some research on internet that what finacial institutes are doing in debt recovery and lending loans. Credit score, annual income, due mortgages, loans and many other features.
+  I have done some research on internet that what finacial institutes are doing in debt recovery and lending loans. Credit score, annual income, due mortgages, loans and many other features.
 
 1.Got Data Set from Kaggle.
 First thing i did was look for a dataset to use in my project that have similarities like above mentioned features in it. Dataset that consist of features i needed to successfully complete my Project.
